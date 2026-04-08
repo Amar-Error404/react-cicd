@@ -1,6 +1,8 @@
 name: Deploy React App to GitHub pages
 on:
   workflow_dispatch:
+permissions: 
+  contents: write
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
