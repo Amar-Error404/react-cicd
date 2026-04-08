@@ -22,7 +22,7 @@ function App() {
           </p>
         </div>
         <button
-          className="counter"
+          className="counter"r
           onClick={() => setCount((count) => count + 1)}
         >
           Count is {count}
