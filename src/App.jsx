@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>This is my first CI/CD React Project</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+           Design and developed by <h1>Amar Kumar Gupta</h1>
           </p>
         </div>
         <button

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Amar-Error404.github.io/react-cicd/",
+  "homepage": "https://amar-error404.github.io/react-cicd/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
